@@ -9,5 +9,6 @@ public class HelloWorld
    
    private static void test(){
 	    System.out.println("TEST!");
+            System.out.println("777");
    }
 }
