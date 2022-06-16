@@ -5,6 +5,7 @@ public class HelloWorld
       System.out.println("Hello World!");
 	  System.out.println("TEST!");
 	  System.out.println("777");
+          System.out.println("888");
    }
    
    private static void test(){
